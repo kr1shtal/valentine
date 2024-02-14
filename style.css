@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+img {
+  width: 400px;
+  height: 400px;
+}
+
+p {
+  font-size: 48px;
+}
+
+.content {
+  text-align: center;
+}
+
+.btn {
+  height: 100px;
+  width: 200px;
+  color: white;
+  font-size: 24px;
+  border-radius: 15px;
+  border: 2px solid black;
+  margin-top: 20px;
+  margin-right: 10px;
+}
+
+#btn-yes {
+  background-color: #32bb52;
+}
+
+#btn-yes:active {
+  background-color: #32a852;
+}
+
+#btn-no {
+  background-color: #ff4034;
+}
+
+#btn-no:active {
+  background-color: #eb4034;
+}
